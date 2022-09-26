@@ -1,0 +1,91 @@
+body{
+  background-color: #5F6F94;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1{
+  /*font-size: 5.625rem;*/
+  /* //90px, 562.5% or  (16px = 100% = 1em) */
+  margin: 50px auto 0 auto;
+  color: #66BFBF;
+  padding-bottom: 5px;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+
+}
+h4{
+  font-family: 'Montserrat', sans-serif;
+
+}
+hr{
+  border-style: dotted  none none;
+  border-color: black;
+  border-width: 5px;
+  width: 5%;
+}
+a {
+  color: #25316D;
+  margin: 20px 10px;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+}
+a:hover{
+  color: #EAF6F6;
+}
+
+.Intro{
+  width: 50%;
+  margin: 30px auto 20px auto;
+}
+.school-img{
+  width: 25%;
+}
+.college-img{
+  width: 25%;
+}
+.university-img{
+  width: 25%;
+}
+.education{
+  margin: auto;
+}
+.work-experience{
+  margin: auto;
+}
+.sales-img{
+  width: 25%;
+  margin: auto;
+}
+.cashier{
+  width: 25%;
+  margin: auto;
+}
+.coding-img{
+  width: 25%;
+}
+.cycling-img{
+  width: 25%;
+}
+.java-img{
+  width: 25%;
+}
+.python-img{
+  width: 25%;
+}
+.reference{
+  margin: auto;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+.skills-table{
+  margin: auto;
+}
